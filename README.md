@@ -1,4 +1,2 @@
-# viperlife (dev-log
-Test
-Test
-Test
+# viperlife (dev-log)
+
