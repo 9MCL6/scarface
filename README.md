@@ -1,5 +1,5 @@
 # viperlife (dev-log)
 **03.04.2021**
-- Website updates
+- Website Updates
 - Hundefänger Job hinzugefügt
 - Ballas Job hinzugefügt
