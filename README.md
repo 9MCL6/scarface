@@ -1,5 +1,6 @@
 # viperlife (dev-log)
 **04.04.2021**
+- Job Anzeige in X-Menü hinzugefügt
 - Garagen Fix
 - FIB Job - Fixes
 - FIB Job hinzugefügt
