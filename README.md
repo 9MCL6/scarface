@@ -1,5 +1,6 @@
 # viperlife (dev-log)
 **04.04.2021**
+- Custom Weapons entfernt - Performance
 - Fahrzeuge skaliert
 - Personalmenu entfernt - Performance
 - Winodows Server geswitched
