@@ -1,5 +1,6 @@
 # viperlife (dev-log)
 **04.04.2021**
+- Kleidung reduziert - Performance
 - Custom Weapons entfernt - Performance
 - Fahrzeuge skaliert
 - Personalmenu entfernt - Performance
