@@ -1,6 +1,6 @@
 # viperlife (dev-log)
 **04.04.2021**
-- updated https://viperlife.net/spielerliste/
+- updated https://viperlife.net/spielerliste/ (2x)
 - added F3 Menu
 - added Triaden Garage
 - Bennys Job Fix / Bennys Duty added
