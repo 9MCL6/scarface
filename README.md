@@ -1,5 +1,6 @@
 # viperlife (dev-log)
 **04.04.2021**
+- Vehiclesshop fix
 - Changed Spielerliste to new ip
 - EUP entfernt - Performance
 - Kleidung reduziert - Performance
