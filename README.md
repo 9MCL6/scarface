@@ -1,5 +1,6 @@
 # viperlife (dev-log)
 **04.04.2021**
+- added Triaden Garage
 - Bennys Job Fix / Bennys Duty added
 - Ambulance Prints entfernt
 - /job für Job Anzeige nun verfügbar 
