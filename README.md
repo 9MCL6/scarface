@@ -1,5 +1,6 @@
 # viperlife (dev-log)
 **04.04.2021**
+- Ambulance Prints entfernt
 - /job für Job Anzeige nun verfügbar 
 - Job Anzeige in X-Menü hinzugefügt
 - Garagen Fix
