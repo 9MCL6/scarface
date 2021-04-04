@@ -1,5 +1,6 @@
 # viperlife (dev-log)
 **04.04.2021**
+- EUP entfernt - Performance
 - Kleidung reduziert - Performance
 - Custom Weapons entfernt - Performance
 - Fahrzeuge skaliert
