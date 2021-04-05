@@ -1,6 +1,7 @@
 # viperlife (dev-log)
 **05.04.2021**
 
+- added txAdmin Broadcast Messages
 - Admin Menus - Anpassungen
 - AC Anpassungen
 - AntiCheat geswitched from choco to mixas
