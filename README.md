@@ -1,6 +1,7 @@
 # viperlife (dev-log)
 **05.04.2021**
 
+- Admin Menus - Anpassungen
 - AC Anpassungen
 - AntiCheat geswitched from choco to mixas
 - moneywash rate from 50 to 85
