@@ -1,4 +1,6 @@
 # viperlife (dev-log)
+**05.04.2021**
+- moneywash rate from 50 to 85
 **04.04.2021**
 - added space at bottom to spielerliste
 - updated https://viperlife.net/spielerliste/ (2x)
