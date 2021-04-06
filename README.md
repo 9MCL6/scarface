@@ -1,6 +1,7 @@
 # viperlife (dev-log)
 **07.04.2021**
 
+- Server switch to Linux
 - minimize resources - Performance
 - FiveM Artifacts updated
 
