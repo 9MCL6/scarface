@@ -1,6 +1,7 @@
 # viperlife (dev-log)
 **07.04.2021**
 
+- minimize resources - Performance
 - FiveM Artifacts updated
 
 **06.04.2021**
