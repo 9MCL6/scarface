@@ -1,4 +1,8 @@
 # viperlife (dev-log)
+**07.04.2021**
+
+- FiveM Artifacts updated
+
 **06.04.2021**
 
 - FiveM Artifacts updated
