@@ -4,6 +4,7 @@
 - FiveM Artifacts updated
 - Admin Menu Anpassungen
 - AC Anpassungen
+- Fixed connect button at [Spielerliste](https://viperlife.net/spielerliste/)
 
 **05.04.2021**
 
