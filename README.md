@@ -1,6 +1,10 @@
 # viperlife (dev-log)
 **05.04.2021**
 
+- AC Anpassungen
+
+**05.04.2021**
+
 - added txAdmin Broadcast Messages
 - Admin Menus - Anpassungen
 - AC Anpassungen
