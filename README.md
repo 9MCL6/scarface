@@ -1,6 +1,7 @@
 # viperlife (dev-log)
 **06.04.2021**
 
+- FiveM Artifacts updated
 - Admin Menu Anpassungen
 - AC Anpassungen
 
