@@ -1,6 +1,7 @@
 # viperlife (dev-log)
 **07.04.2021**
 
+- Fixed https://viperlife.net/spielerliste/
 - Server switch to Linux
 - minimize resources - Performance
 - FiveM Artifacts updated
