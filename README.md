@@ -1,6 +1,7 @@
 # viperlife (dev-log)
 **07.04.2021**
 
+- change spawnpoint
 - added Fahrradverleih
 - Fixed https://viperlife.net/spielerliste/
 - Server switch to Linux
