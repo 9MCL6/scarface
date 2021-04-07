@@ -1,6 +1,7 @@
 # viperlife (dev-log)
 **07.04.2021**
 
+- added Fahrradverleih
 - Fixed https://viperlife.net/spielerliste/
 - Server switch to Linux
 - minimize resources - Performance
