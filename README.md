@@ -1,6 +1,7 @@
 # viperlife (dev-log)
 **07.04.2021**
 
+- added more Log Systems 
 - change spawnpoint
 - added Fahrradverleih
 - Fixed https://viperlife.net/spielerliste/
