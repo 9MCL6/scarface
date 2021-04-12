@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **12.04.2021**
 
+- fixed & added new server-status
 - fixed !status
 - Discord Anpassungen
 - Teamspeak Anpassungen
