@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **12.04.2021**
 
+- added Discord Commands
 - fixed & added new server-status
 - fixed !status
 - Discord Anpassungen
