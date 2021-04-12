@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**13.04.2021**
+
+- clear EasyAdmin Banlist
+
 **12.04.2021**
 
 - added Discord Commands
