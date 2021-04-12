@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **12.04.2021**
 
+- Discord Anpassungen
 - Teamspeak Anpassungen
 
 **11.04.2021**
