@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.04.2021**
 
+- updated saltychat
 - updated d-phone
 - clear Rechnungen
 - clear EasyAdmin Banlist
