@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.04.2021**
 
+- removed saltynui
 - added Bankraub
 - removed saltyradio
 - updated saltychat
