@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.04.2021**
 
+- added Bankraub
 - removed saltyradio
 - updated saltychat
 - updated d-phone
