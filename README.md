@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.04.2021**
 
+- added esx_identity UI
 - added Fahrradverleih
 - added Einreiseamt
 - fixed saltychat
