@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **14.04.2021**
 
+- AC Anpassungen
 - TS Rechte Anpssung
 - added new chat
 - AC Anpassungen
