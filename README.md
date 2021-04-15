@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **15.04.2021**
 
+- change robberys to green (cash) money
 - added Biker Customs
 - fixed dog command
 
