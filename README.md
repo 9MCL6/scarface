@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **15.04.2021**
 
+- added Biker Customs
 - fixed dog command
 
 **14.04.2021**
