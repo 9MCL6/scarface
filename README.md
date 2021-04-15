@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**15.04.2021**
+
+- fixed dog command
+
 **14.04.2021**
 
 - fixed Admin Commands
