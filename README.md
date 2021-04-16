@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **16.04.2021**
 
+- fixed addon bug
 - updated artifacts version
 
 **15.04.2021**
