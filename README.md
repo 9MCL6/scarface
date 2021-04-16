@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **16.04.2021**
 
+- fixed nonpc
 - fixed biker customs
 - fixed addon bug
 - updated artifacts version
