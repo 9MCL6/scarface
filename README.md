@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**16.04.2021**
+
+- updated artifacts version
+
 **15.04.2021**
 
 - change robberys to green (cash) money
