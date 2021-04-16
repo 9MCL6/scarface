@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **16.04.2021**
 
+- remove F10 Tablet
 - fixed ucp bugs
 - change from mixas to choco
 - fixed nonpc
