@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **17.04.2021**
 
+- added Team Mode icon to HUD
 - fixed Scoreboard
 - added Admin Commands
 - change Log Designs
