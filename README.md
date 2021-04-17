@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**17.04.2021**
+
+- added safezone script
+
 **16.04.2021**
 
 - fixed txAdmin Ban & Kick
