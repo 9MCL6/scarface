@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **17.04.2021**
 
+- fixed safezone script
 - added safezone script
 
 **16.04.2021**
