@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **17.04.2021**
 
+- change Log Designs
 - added new Designs (Discord, FiveM, TeamSpeak, Handy usw.)
 - fixed safezone script
 - added safezone script
