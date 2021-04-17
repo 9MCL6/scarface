@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **17.04.2021**
 
+- fixed Scoreboard
 - added Admin Commands
 - change Log Designs
 - added new Designs (Discord, FiveM, TeamSpeak, Handy usw.)
