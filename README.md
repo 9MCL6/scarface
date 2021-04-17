@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **18.04.2021**
 
+- adjust Loadingscreen
 - added new Loadingscreen Music
 
 **17.04.2021**
