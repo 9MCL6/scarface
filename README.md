@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**18.04.2021**
+
+- added new Loadingscreen Music
+
 **17.04.2021**
 
 - added Team Mode icon to HUD
