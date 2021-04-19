@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**19.04.2021**
+
+- adjust & fixed safezone script
+
 **18.04.2021**
 
 - added Admin Commands
