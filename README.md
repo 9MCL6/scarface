@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **19.04.2021**
 
+- adjust Sons of Anarchy Job
 - adjust & fixed safezone script
 
 **18.04.2021**
