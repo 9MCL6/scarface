@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- fixed sperrzone
 - added panicbutton FIB
 - added itemshop FIB
 - fixed FIB Job
