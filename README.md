@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **2ß.04.2021**
 
+- adjust speed limit in safezones
 - added speed limit in safezones
 
 **19.04.2021**
