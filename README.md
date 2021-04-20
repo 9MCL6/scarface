@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **20.04.2021**
 
+- added itemshop FIB
 - fixed FIB Job
 - added panicbutton LSPD
 - added itemshop LSPD
