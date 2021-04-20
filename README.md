@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**2ß.04.2021**
+
+- added speed limit in safezones
+
 **19.04.2021**
 
 - adjust Sons of Anarchy Job
