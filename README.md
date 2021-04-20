@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **20.04.2021**
 
+- added scarface_sperrzone
 - AC Anpassungen
 - added FIB Cars
 - added FIB Job
