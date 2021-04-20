@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- added esx_teleports
 - panic button = ,
 - fixed sperrzone
 - added panicbutton FIB
