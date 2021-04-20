@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **2ß.04.2021**
 
+- added Donator Cars
 - adjust speed limit in safezones
 - added speed limit in safezones
 
