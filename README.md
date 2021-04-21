@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- fixed SaltyChat
 - edit SaltyChat TS Name
 - edit RichPresenceDiscord
 - edit LSPD Job
