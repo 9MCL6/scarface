@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- edit FIB Job
 - edit Salty Channels
 - edit notifications
 - edit FIB Job
