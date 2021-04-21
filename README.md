@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- added FIB Westen
 - fixed FIB Funk
 - edit FIB Job
 - edit Salty Channels
