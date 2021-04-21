@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- edit Einreise Script
 - added group "guide" to essentialmode
 - added FIB Kleidungsshop
 - added FIB Helikopter Punkt
