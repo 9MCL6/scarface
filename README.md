@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- edit notifications
 - edit FIB Job
 - remove esx_army
 - fixed SaltyChat
