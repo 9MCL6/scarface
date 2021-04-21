@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- added Sauerstoffmasken to shop
 - added Humane Labs Raub
 - added Juwelenraub
 - fixed Bankraub
