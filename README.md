@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- fixed Bankraub
 - added esx_teleports
 - panic button = ,
 - fixed sperrzone
