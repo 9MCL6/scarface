@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **21.04.2021**
 
+- edit RichPresenceDiscord
 - edit LSPD Job
 - edit FIB Job
 - added Sauerstoffmasken to shop
