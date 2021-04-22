@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **22.04.2021**
 
+- edit admin commands
 - removed weapon_compenents & sniper from FIB Job
 - cleared useless tables (Datenbank)
 - fixed admin commands
