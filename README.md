@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**22.04.2021**
+
+- fixed essentialmode groups
+
 **21.04.2021**
 
 - edit Einreise Script
