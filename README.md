@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **22.04.2021**
 
+- cleared useless tables (Datenbank)
 - fixed admin commands
 - fixed essentialmode groups
 
