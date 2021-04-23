@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **23.04.2021**
 
+- removed vinewood_anwesen
 - added FIB vehicle
 - edit vehicledespawn timer
 - added donator vehicles
