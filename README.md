@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **23.04.2021**
 
+- added donator vehicles
 - added admin commands for guide
 
 **22.04.2021**
