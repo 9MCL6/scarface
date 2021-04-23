@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **22.04.2021**
 
+- added vinewood_anwesen
 - edit robberys requirements
 - edit admin commands
 - removed weapon_compenents & sniper from FIB Job
