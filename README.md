@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **22.04.2021**
 
+- added group command for guide
 - added automatic VehicleDespawner
 - added vinewood_anwesen
 - edit robberys requirements
