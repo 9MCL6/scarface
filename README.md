@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **25.04.2021**
 
+- added Custom Team Outfits
 - edit Admin Menu
 - edit VehicleDespawn timer
 
