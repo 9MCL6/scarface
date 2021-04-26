@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **26.04.2021**
 
+- changed AC to MIXAS
 - edit sv_projectname & sv_projectdesk
 
 **25.04.2021**
