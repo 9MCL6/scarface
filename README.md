@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **26.04.2021**
 
+- added EasyAdmin Kick & Ban Notifications
 - updated EasyAdmin
 - pushed Performance
 - fixed Server Timeouts
