@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **26.04.2021**
 
+- cleared server cache
 - cleared useless tables (Datenbank)
 - added EasyAdmin Kick & Ban Notifications
 - updated EasyAdmin
