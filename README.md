@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **26.04.2021**
 
+- fixed Server Timeouts
 - edit max Server Slots to 650
 - edit Admin Menu Permissions
 - changed AC to MIXAS
