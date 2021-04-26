@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **26.04.2021**
 
+- pushed Performance
 - fixed Server Timeouts
 - edit max Server Slots to 650
 - edit Admin Menu Permissions
