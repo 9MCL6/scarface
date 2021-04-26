@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **26.04.2021**
 
+- updated EasyAdmin
 - pushed Performance
 - fixed Server Timeouts
 - edit max Server Slots to 650
