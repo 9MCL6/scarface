@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **26.04.2021**
 
+- edit Admin Menu Permissions
 - changed AC to MIXAS
 - edit sv_projectname & sv_projectdesk
 
