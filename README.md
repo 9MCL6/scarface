@@ -1,7 +1,6 @@
 # scarface (dev-log)
 **27.04.2021**
 
-- Testd
 - remove Einreise Prints
 - edit REZZ_IstGott (Performance Boost)
 - edit D-Phone
