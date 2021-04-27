@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**27.04.2021**
+
+- edit D-Phone
+
 **26.04.2021**
 
 - cleared server cache
