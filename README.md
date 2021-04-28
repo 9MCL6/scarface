@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **28.04.2021**
 
+- edit Team Menü
 - fixed /assist Notifications
 - added in Game Bann-Warn System
 - edit connectqueue
