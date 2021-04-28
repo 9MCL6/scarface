@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **28.04.2021**
 
+- added in Game Bann-Warn System
 - edit connectqueue
 - edit el_bwh
 
