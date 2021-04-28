@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **28.04.2021**
 
+- edit connectqueue
 - edit el_bwh
 
 **27.04.2021**
