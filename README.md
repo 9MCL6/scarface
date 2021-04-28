@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **28.04.2021**
 
+- added IC Team Chat
 - added seccond Notify System
 - edit el_bwh Assist Message
 - edit Einreise Rechte
