@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **28.04.2021**
 
+- edit el_bwh Assist Message
 - edit Einreise Rechte
 - edit Team Menü
 - fixed /assist Notifications
