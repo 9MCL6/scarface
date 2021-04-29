@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **29.04.2021**
 
+- edit notifications time
 - cars skaliert
 - minimize cars folder
 - edit Team Menü
