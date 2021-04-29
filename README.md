@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**29.04.2021**
+
+- added Group "User" to Team Menü
+
 **28.04.2021**
 
 - added IC Team Chat
