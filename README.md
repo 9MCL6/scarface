@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **29.04.2021**
 
+- added "Aduty Outfit" for Rezz
 - added Group "User" to Team Menü
 
 **28.04.2021**
