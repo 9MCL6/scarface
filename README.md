@@ -1,7 +1,7 @@
 # scarface (dev-log)
 **30.04.2021**
 
-- change revive money fromt 5k to 1k
+- change revive money from 5k to 1k
 - edit Notifications
 - edit Waffen Route
 - exucute Weapon Clear
