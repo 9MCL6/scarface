@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **30.04.2021**
 
+- exucute Weapon Clear
 - edit Weapons FIB Job
 - edit Weapons Police Job
 - edit Log Systems
