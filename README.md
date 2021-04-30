@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **30.04.2021**
 
+- fahrzeuge skaliert
 - edit Notifications
 - added hummer
 - added Königsegg Jesko
