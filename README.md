@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **30.04.2021**
 
+- added new Women clothes & hairs
 - fixed rmodgt63 
 
 **29.04.2021**
