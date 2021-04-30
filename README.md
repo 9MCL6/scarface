@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **30.04.2021**
 
+- AC Anpassungen
 - fixed Join bug ("Ban bypass detected")
 - waffenroute Verkauf erhöht
 - change loadingscreen music
