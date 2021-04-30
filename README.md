@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **30.04.2021**
 
+- edit Waffen Route
 - exucute Weapon Clear
 - edit Weapons FIB Job
 - edit Weapons Police Job
