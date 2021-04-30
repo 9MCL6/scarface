@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **30.04.2021**
 
+- edit Weapons FIB Job
 - edit Weapons Police Job
 - edit Log Systems
 - AC Anpassungen
