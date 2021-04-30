@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **30.04.2021**
 
+- edit Weapons Police Job
 - edit Log Systems
 - AC Anpassungen
 - fixed Join bug ("Ban bypass detected")
