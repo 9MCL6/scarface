@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**30.04.2021**
+
+- fixed rmodgt63 
+
 **29.04.2021**
 
 - edit notifications time
