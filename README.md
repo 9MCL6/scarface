@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **30.04.2021**
 
+- fixed cls2015
 - change revive money from 5k to 1k
 - edit Notifications
 - edit Waffen Route
