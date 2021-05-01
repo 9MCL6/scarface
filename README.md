@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **01.05.2021**
 
+- remove scarface_panicbutton
 - remove MIXAS Screens
 - remove EasyScreens
 - remove screenshot-basic
