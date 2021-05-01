@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **01.05.2021**
 
+- game crashes
 - fixed car pack
 
 **30.04.2021**
