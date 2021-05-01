@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **01.05.2021**
 
+- added craniax_menu
 - fixed game crashes
 - fixed car pack
 - added Fahrzeug "CLS"
