@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **01.05.2021**
 
+- added scarface_notifyannounce
 - change loadingscreen music
 - fixed game crashes
 - fixed car pack
