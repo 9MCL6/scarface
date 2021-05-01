@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **01.05.2021**
 
+- fixed car pack
 - added Fahrzeug "CLS"
 - added Fahrzeug "GLS"
 - edit FIB Gehalt
