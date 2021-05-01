@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **01.05.2021**
 
+- remove craniax_anwesen
 - remove craniax_menu
 - added craniax_menu
 - fixed game crashes
