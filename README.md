@@ -1,6 +1,8 @@
 # scarface (dev-log)
 **01.05.2021**
 
+- added Fahrzeug "CLS"
+- added GLS
 - edit FIB Gehalt
 - edit Notifications
 - edit Design scarface_notifyannounce
