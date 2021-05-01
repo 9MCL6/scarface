@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **01.05.2021**
 
+- edit FIB Gehalt
 - edit Notifications
 - edit Design scarface_notifyannounce
 - added scarface_notifyannounce
