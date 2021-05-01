@@ -2,7 +2,7 @@
 **01.05.2021**
 
 - added Fahrzeug "CLS"
-- added GLS
+- added Fahrzeug "GLS"
 - edit FIB Gehalt
 - edit Notifications
 - edit Design scarface_notifyannounce
