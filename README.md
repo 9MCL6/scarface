@@ -9,7 +9,7 @@
 - remove setgroup from Team Menu 
 - remove Custom Admin Suits
 - performance boost
-- fixed unuseless console prints
+- fixed unuseless Konsolen prints
 - remove Server Callback "esx_carmileage:getMileage"
 - remove Server Callback "test:loadstancer"
 - FiveM Artifacts updated
