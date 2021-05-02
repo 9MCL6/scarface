@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- fixed Notifications
 - reduce car pack / pushed performance
 - fixed id / ids command
 - switched AntiCheat to chocohax
