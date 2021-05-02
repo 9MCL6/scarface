@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- remove instance
 - switched AntiCheat to MIXAS
 - reduce resources
 - reduce cloth pack
