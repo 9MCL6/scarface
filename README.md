@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- remove DiamondBlackjack
 - remove rezz_scoreboard
 - remove setgroup from Team Menu 
 - remove Custom Admin Suits
