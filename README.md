@@ -1,6 +1,8 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- fixed unuseless Console prints
+- remove Server Callback "esx_carmileage:getMileage"
 - remove Server Callback "test:loadstancer"
 - FiveM Artifacts updated
 
