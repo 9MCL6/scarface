@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**02.05.2021**
+
+- FiveM Artifacts updated
+
 **01.05.2021**
 
 - remove scarface_panicbutton
