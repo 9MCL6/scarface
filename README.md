@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- remove Custom Admin Suits
 - performance boost
 - fixed unuseless console prints
 - remove Server Callback "esx_carmileage:getMileage"
