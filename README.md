@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- edit handling from urus
 - added "kick" Command
 - remove EasyAdmin
 - fixed Notifications
