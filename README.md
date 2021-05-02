@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- fixed id / ids command
 - switched AntiCheat to chocohax
 - remove tx-tablet
 - remove vq-casino
