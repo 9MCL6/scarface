@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- remove vq-casino
 - remove ruletka
 - remove sloty
 - remove DiamondBlackjack
