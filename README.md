@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- remove Server Callback "test:loadstancer"
 - FiveM Artifacts updated
 
 **01.05.2021**
