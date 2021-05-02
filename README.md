@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- reduce cloth pack
 - added Donator Cars
 - edit handling from urus
 - added "kick" Command
