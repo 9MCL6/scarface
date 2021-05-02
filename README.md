@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **02.05.2021**
 
+- remove ruletka
 - remove sloty
 - remove DiamondBlackjack
 - remove rezz_scoreboard
