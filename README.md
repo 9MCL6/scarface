@@ -1,8 +1,11 @@
 # scarface (dev-log)
+**03.05.2021**
+
+- fixed Carry Trigger
+- fixed Identity Trigger
+
 **02.05.2021**
 
-- fixed identity trigger (modder cant change any names)
-- fixed identity Trigger
 - remove esx_property
 - remove instance
 - switched AntiCheat to MIXAS
