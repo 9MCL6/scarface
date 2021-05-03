@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **03.05.2021**
 
+- fixed /headlights Command
 - fixed Carry Trigger
 - fixed Identity Trigger
 
