@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **03.05.2021**
 
+- fixed Vehicleshop Trigger
 - edit Robbery Requirements
 - fixed /headlights Command
 - fixed Carry Trigger
