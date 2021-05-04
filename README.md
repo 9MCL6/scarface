@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **03.05.2021**
 
+- remove club (SonsofAnarchy Map) (Spiel Crashes)
 - remove garage (SonsofAnarchy Map) (Spiel Crashes)
 - remove vinewood_anwesen (Spiel Crashes)
 - remove Bahama Mamas Map (Spiel Crashes)
