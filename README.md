@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **04.05.2021**
 
+- edit jesko handling
 - edit esx_policejob
 - edit Doorlock
 - remove Polizeistation (Map)
