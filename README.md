@@ -1,5 +1,5 @@
 # scarface (dev-log)
-**03.05.2021**
+**04.05.2021**
 
 - remove esx_bikercustom (Werkstatt)
 - remove esx_SonsofAnarchy (Job)
@@ -8,6 +8,9 @@
 - remove vinewood_anwesen (Spiel Crashes)
 - remove Bahama Mamas Map (Spiel Crashes)
 - remove bigbenny Map (Spiel Crashes)
+
+**03.05.2021**
+
 - maps skaliert
 - remove some cars & clothes
 - fixed Vehicleshop Trigger
