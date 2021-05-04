@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **03.05.2021**
 
+- remove bigbenny Map (Spiel Crashes)
 - maps skaliert
 - remove some cars & clothes
 - fixed Vehicleshop Trigger
