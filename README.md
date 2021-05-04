@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **04.05.2021**
 
+- remove REZZ_IstGott
 - edit RichPresenceDiscord
 - edit Auto Despawner Timer to 30 Minutes
 - edit amggtr handling
