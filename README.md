@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **04.05.2021**
 
+- remove Polizeistation (Map)
 - remove esx_bikercustom (Werkstatt)
 - remove esx_SonsofAnarchy (Job)
 - remove club (SonsofAnarchy Map) (Spiel Crashes)
