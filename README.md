@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **03.05.2021**
 
+- remove Bahama Mamas Map (Spiel Crashes)
 - remove bigbenny Map (Spiel Crashes)
 - maps skaliert
 - remove some cars & clothes
