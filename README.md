@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- added Playboy Villa (LCN Map)
 - fixed Blip for LSPD
 - added safezone to MP, LSMD
 - edit Loadingscreen
