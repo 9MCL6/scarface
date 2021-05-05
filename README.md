@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- added new LSPD
 - edit LSPD Coords
 - added new Clothes
 - edit legale & drogen Routen Preise
