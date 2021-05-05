@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- edit Auto Despawner Timer to 60 Minutes
 - remove Langwaffen Route
 - remove Langwaffen
 - fixed Tank System
