@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- edit Loadingscreen
 - remove safezones on MP
 - remove CarryPeople
 - added realtime
