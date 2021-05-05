@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- added scoreboard
 - added vinewood_anwesen
 - edit Auto Despawner Timer to 60 Minutes
 - remove Langwaffen Route
