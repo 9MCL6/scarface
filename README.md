@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- edit max speed from Safezones to 75 km/h
 - edit Handling from rmodf40
 
 **04.05.2021**
