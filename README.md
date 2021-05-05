@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- remove Langwaffen
 - fixed Tank System
 - edit Tank System
 - edit Einreise Notifications
