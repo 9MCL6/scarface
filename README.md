@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- edit Einreise Notifications
 - added new LSPD
 - edit LSPD Coords
 - added new Clothes
