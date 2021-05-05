@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- fixed Blip for LSPD
 - added safezone to MP, LSMD
 - edit Loadingscreen
 - remove safezones on MP
