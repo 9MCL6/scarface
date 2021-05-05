@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **05.05.2021**
 
+- edit LSPD Coords
 - added new Clothes
 - edit legale & drogen Routen Preise
 - edit max speed to 250 km/h
