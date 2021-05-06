@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**06.05.2021**
+
+- remove Vehicle Damage
+
 **05.05.2021**
 
 - added Playboy Villa (LCN Map)
