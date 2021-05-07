@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**08.05.2021**
+
+- added new EUP (Clothes)
+
 **07.05.2021**
 
 - edit Handling & Sound svj63
