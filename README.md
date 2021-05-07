@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **08.05.2021**
 
+- added car "hypersport"
 - fixed Doorlock
 - added Sheriff Job
 - added Sheriff Cars
