@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **08.05.2021**
 
+- added Sheriff Job
 - added Sheriff Cars
 - added Sheriff Map
 - added new EUP (Clothes)
