@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **08.05.2021**
 
+- added CarryPeople
 - fixed LSPD Doorlock
 - added Ladenräube to LSSD
 - fixed LSSD Doorlock
