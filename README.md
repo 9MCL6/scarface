@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **08.05.2021**
 
+- added Sheriff Doorlock
 - added cars to ambulance
 - added whitelist safezone to lssd
 - added whitelist safezone to ambulance
