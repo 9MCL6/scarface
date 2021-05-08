@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **08.05.2021**
 
+- fixed Doorlock
 - fixed Ambulance Job
 - added Sheriff Doorlock
 - added cars to ambulance
