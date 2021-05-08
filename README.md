@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **09.05.2021**
 
+- remove esx_scoreboard
 - remove vinewood_anwesen
 
 **08.05.2021**
