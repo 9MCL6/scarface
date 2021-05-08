@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**09.05.2021**
+
+- remove vinewood_anwesen
+
 **08.05.2021**
 
 - added CarryPeople
