@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **08.05.2021**
 
+- edit LSSD Job
 - fixed LSSD Cars
 - fixed LSSD Map
 - fixed Doorlock
