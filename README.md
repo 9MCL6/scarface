@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **08.05.2021**
 
+- added Ladenräube to LSSD
 - fixed LSSD Doorlock
 - edit LSSD Job
 - fixed LSSD Cars
