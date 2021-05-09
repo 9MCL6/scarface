@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **09.05.2021**
 
+- added LSMC Heli
 - added SG Menu
 - added SG
 - edit esx_ambulancejob
