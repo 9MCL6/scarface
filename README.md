@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **09.05.2021**
 
+- fixed LSPD Cars
 - added car "Aperta"
 - added car "Gemera"
 - added car "EMS Inteceptor"
