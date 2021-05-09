@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **09.05.2021**
 
+- added SG
 - edit esx_ambulancejob
 - added Sandy Shores MD
 - edit Doorlock
