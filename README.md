@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **10.05.2021**
 
+- edit state menu
 - added car "FD1"
 
 **09.05.2021**
