@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **09.05.2021**
 
+- added Sandy Shores MD
 - edit Doorlock
 - edit LSSD Job
 - fixed LSPD Cars
