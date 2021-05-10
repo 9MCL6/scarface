@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **10.05.2021**
 
+- remove police Radar
 - remove scarface_state Script
 - edit state menu
 - added car "FD1"
