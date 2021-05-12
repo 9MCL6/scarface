@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **12.05.2021**
 
+- added new LSPD Cars
 - added Custom Rechnungen für LSPD, LSSD
 
 **10.05.2021**
