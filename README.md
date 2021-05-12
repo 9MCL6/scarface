@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **12.05.2021**
 
+- edit Farm Spots
 - added Army Job
 - added Police Teleporter
 - added new Police Job
