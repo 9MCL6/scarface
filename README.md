@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **12.05.2021**
 
+- fixed Jail Menu
 - added Jail Menu
 - added more Money for Farming
 - edit Farm Spots
