@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **12.05.2021**
 
+- added Army Job
 - added Police Teleporter
 - added new Police Job
 - added new LSPD Cars
