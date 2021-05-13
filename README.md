@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- edit Respawn Timer
 - added Fun Commands
 - remove shoot weapon log (Performance)
 - fixed ambulance job
