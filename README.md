@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- added Nametags for Team
 - fixed donator trunks
 - added Donator Cars
 - fixed Medkits & Bandangen from Medic
