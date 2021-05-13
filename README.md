@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- edit Army Ränge
 - added private Funk for Army
 - added Donator Cars
 - edit Donator Trunk
