@@ -1,6 +1,6 @@
 # scarface (dev-log)
 **13.05.2021**
-
+- added Army doorlock
 - fixed esx_society & useless Callbacks
 - added Army to Safezone & Sperrzonen Script
 - maximal geschwindigkeit auf 350 erhöht
