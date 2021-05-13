@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- edit esx_society (Performance)
 - added Army State & Jail Menu Access
 - edit Army Ränge
 - added private Funk for Army
