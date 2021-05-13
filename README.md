@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- fixed donator trunks
 - added Donator Cars
 - fixed Medkits & Bandangen from Medic
 - added Army doorlock
