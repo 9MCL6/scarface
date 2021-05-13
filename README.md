@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- added Army to Safezone & Sperrzonen Script
 - maximal geschwindigkeit auf 350 erhöht
 - remove safezone script on meetingpoint
 - edit Respawn Timer
