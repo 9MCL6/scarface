@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- edit scarface_aduty
 - added Custom Admin Suits
 - added Rechte Vergabe im Team Menu
 - added Nametags for Team
