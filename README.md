@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- fixed ambulance job
 - remove dispatches per phone (performance)
 - added new ambulance disptach system etc
 - updated new ambulance job
