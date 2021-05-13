@@ -1,5 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
+
+- added /close command for menu bug
 - edit x-menus
 - fixed Boss Menu
 - remove ambulance sandy
