@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- added Donator Cars
 - fixed Medkits & Bandangen from Medic
 - added Army doorlock
 - fixed esx_society & useless Callbacks
