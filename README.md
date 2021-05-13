@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- fixed Boss Menu
 - remove ambulance sandy
 - remove lssd job & maps
 - edit scarface_aduty
