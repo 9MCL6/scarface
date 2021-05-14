@@ -1,8 +1,6 @@
 # scarface (dev-log)
 **15.05.2021**
 
-- added Medics to services 
-
 **14.05.2021**
 
 - added donator cars
