@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **14.05.2021**
 
+- renamed all scripts with rezz to craniax
 - remove old clothing menu
 - added dp_clothing
 - fixed garages & menus
