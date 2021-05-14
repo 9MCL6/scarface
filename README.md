@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **14.05.2021**
 
+- added donator cars
 - edit donator handlings
 - edit donator trunks
 - edit donator handlings
