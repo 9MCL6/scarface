@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **13.05.2021**
 
+- added dp_clothing
 - fixed garages & menus
 - remove /close command for menu bug
 - added /close command for menu bug
