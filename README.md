@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **15.05.2021**
 
+- edit Army Job
 - edit Ambulance Job
 - remove all Handy Services
 - added Custom Buttons for LSMC
