@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **15.05.2021**
 
+- remove esx_boatshop
 - added Safezone for Tuning Meeting
 - edit craniax_menu
 - added donator handlings
