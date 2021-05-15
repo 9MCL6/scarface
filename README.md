@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **15.05.2021**
 
+- added Donator Cars
 - fixed Money Trigger
 - added Safezone for Tuning Meeting
 - edit craniax_menu
