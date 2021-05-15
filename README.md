@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **15.05.2021**
 
+- remove all Handy Services
 - added Custom Buttons for LSMC
 
 **14.05.2021**
