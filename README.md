@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **15.05.2021**
 
+- added donator cars
 - remove Bahama Mamas
 - added Craniax_Menu
 - edit Army Job
