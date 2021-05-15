@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **15.05.2021**
 
+- remove Bahama Mamas
 - added Craniax_Menu
 - edit Army Job
 - edit Ambulance Job
