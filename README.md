@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **15.05.2021**
 
+- edit craniax_menu
 - added donator handlings
 - added donator cars
 - remove Bahama Mamas
