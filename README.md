@@ -1,6 +1,8 @@
 # scarface (dev-log)
 **15.05.2021**
 
+- added Custom Buttons for LSMC
+
 **14.05.2021**
 
 - added donator cars
