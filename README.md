@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **17.05.2021**
 
+- fixed LKW Shop
 - added recoil effect
 - fixed Westen/Medikit bug
 
