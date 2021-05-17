@@ -1,4 +1,8 @@
 # scarface (dev-log)
+**17.05.2021**
+
+- fixed Westen/Medikit bug
+
 **16.05.2021**
 
 - edit bennys job
