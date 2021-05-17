@@ -1,6 +1,7 @@
 # scarface (dev-log)
 **17.05.2021**
 
+- added recoil effect
 - fixed Westen/Medikit bug
 
 **16.05.2021**
