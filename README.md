@@ -2,6 +2,7 @@
 
 **18.05.2021**
 
+- remove Menu Point "Frakauto"
 - updated Discord System
 - edit VehicleDespawner
 - added Donator Cars
