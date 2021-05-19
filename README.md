@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- remove travis_scott
 - remove Craniax_Fun
 
 **19.05.2021**
