@@ -2,6 +2,7 @@
 
 **19.05.2021**
 
+- fixed console commands for givecar
 - edit cranaix_givecar
 - edit Money Logs
 - edit es_admin
