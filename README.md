@@ -2,6 +2,7 @@
 
 **18.05.2021**
 
+- edit Fraktions Menu
 - edit craniax_givecar
 - added craniax_givecar
 - remove Menu Point "Frakauto"
