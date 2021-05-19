@@ -2,6 +2,7 @@
 
 **19.05.2021**
 
+- edit Money Logs
 - edit es_admin
 - edit Rechte Event
 - edit Discord & Event Logs
