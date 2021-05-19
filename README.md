@@ -2,6 +2,7 @@
 
 **19.05.2021**
 
+- edit Discord & Event Logs
 - edit WEED Verarbeiter
 
 **18.05.2021**
