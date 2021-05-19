@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**20.05.2021**
+
+- remove Craniax_Fun
+
 **19.05.2021**
 
 - added Donator Cars
