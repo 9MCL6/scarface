@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- added Waffen-Aufsätze zum Waffenteilenshop
 - added waffenaufsätze
 - edited amublancejob
 - added new LSMC
