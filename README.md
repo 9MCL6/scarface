@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- added Combat Pistol for LSPD
 - added Assaultrifle & Heavy Pistol for Bad Fraks (Waffenroute)
 - added Advancedrifle & Combat Pistol for army
 - fixed boat shop
