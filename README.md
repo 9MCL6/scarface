@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- added new LSMC
 - edit Craniax_Farm, fixed Routen
 - edit Schutzwesten Route
 - edit AntiCheat
