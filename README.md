@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- add Donator Cars
 - fixed seccond Waffenteilenshop for Aufsätze
 - added seccond Waffenteilenshop for Aufsätze
 - edit Spawn Punkt / LSMC Job
