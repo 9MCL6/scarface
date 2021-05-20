@@ -1,7 +1,7 @@
 # scarface (dev-log)
 
 **20.05.2021**
-
+- updated SaltyChat
 - remove scarface_recoil
 - remove craniax_testmenu
 - remove travis_scott
