@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- added cayo perico & dlc maps
 - fixed Notifications
 - fixed Map Fehler
 - fixed MAP IPL Loader
