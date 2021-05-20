@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**21.05.2021**
+
+- added Police Weapon Deleter
+
 **20.05.2021**
 
 - edit Donator Trunk
