@@ -1,6 +1,8 @@
 # scarface (dev-log)
 
 **20.05.2021**
+
+- fixed Salty Notifications & HUD Trigger
 - updated SaltyChat
 - remove scarface_recoil
 - remove craniax_testmenu
