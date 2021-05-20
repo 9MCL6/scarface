@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- fixed MAP IPL Loader
 - fixed Robberys Notifcations
 - fixed Bank Raub Notifications
 - remove Schutzwesten from Shop
