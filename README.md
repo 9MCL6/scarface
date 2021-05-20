@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- added yachtraub
 - added cayo perico & dlc maps
 - fixed Notifications
 - fixed Map Fehler
