@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- added seccond Waffenteilenshop for Aufsätze
 - edit Spawn Punkt / LSMC Job
 - added new LSMC
 - added Waffen-Aufsätze zum Waffenteilenshop
