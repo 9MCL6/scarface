@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- remove Schutzwesten from Shop
 - add Schutzwesten Route
 - add Waffenteilen-Shop
 - add Waffenroute
