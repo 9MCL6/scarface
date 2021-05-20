@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- added Advancedrifle & Combat Pistol for army
 - fixed boat shop
 - added boat shop
 - fixed Sicherheitslücke "craniax_farm"
