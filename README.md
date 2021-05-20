@@ -2,6 +2,8 @@
 
 **20.05.2021**
 
+- edit Spawn Punkt / LSMC Job
+- added new LSMC
 - added Waffen-Aufsätze zum Waffenteilenshop
 - added waffenaufsätze
 - edited amublancejob
