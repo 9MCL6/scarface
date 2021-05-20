@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- edit Donator Trunk
 - add Donator Cars
 - fixed seccond Waffenteilenshop for Aufsätze
 - added seccond Waffenteilenshop for Aufsätze
