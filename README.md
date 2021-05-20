@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- add Waffenteilen-Shop
 - add Waffenroute
 - remove Waffen Rückstoß
 - fixed Salty Notifications & HUD Trigger
