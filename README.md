@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- added boat shop
 - fixed Sicherheitslücke "craniax_farm"
 - added yachtraub
 - added cayo perico & dlc maps
