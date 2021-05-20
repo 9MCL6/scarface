@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- add Schutzwesten Route
 - add Waffenteilen-Shop
 - add Waffenroute
 - remove Waffen Rückstoß
