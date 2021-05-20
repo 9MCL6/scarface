@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- fixed Notifications
 - fixed Map Fehler
 - fixed MAP IPL Loader
 - fixed Robberys Notifcations
