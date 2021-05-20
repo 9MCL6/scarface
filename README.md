@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- fixed Map Fehler
 - fixed MAP IPL Loader
 - fixed Robberys Notifcations
 - fixed Bank Raub Notifications
