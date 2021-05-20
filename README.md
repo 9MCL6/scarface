@@ -2,6 +2,7 @@
 
 **20.05.2021**
 
+- remove Waffen Rückstoß
 - fixed Salty Notifications & HUD Trigger
 - updated SaltyChat
 - remove scarface_recoil
