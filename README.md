@@ -2,6 +2,7 @@
 
 **21.05.2021**
 
+- added No Close Combat
 - added Police Weapon Deleter
 
 **20.05.2021**
