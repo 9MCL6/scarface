@@ -2,6 +2,7 @@
 
 **21.05.2021**
 
+- fixed Admin Commands
 - edit Team Logs
 - added Command Notifications
 - added Command Log 
