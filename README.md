@@ -2,6 +2,7 @@
 
 **21.05.2021**
 
+- edit AntiCheat
 - added Team Logs
 - added No Close Combat
 - added Police Weapon Deleter
