@@ -2,6 +2,7 @@
 
 **21.05.2021**
 
+- added Admin Abuse Log
 - fixed Admin Commands
 - edit Team Logs
 - added Command Notifications
