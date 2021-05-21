@@ -2,6 +2,7 @@
 
 **21.05.2021**
 
+- edit Team Logs
 - added Command Notifications
 - added Command Log 
 - edit Event Logs
