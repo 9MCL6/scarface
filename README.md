@@ -2,6 +2,7 @@
 
 **21.05.2021**
 
+- added Command Log 
 - edit Event Logs
 - edit AntiCheat
 - added Team Logs
