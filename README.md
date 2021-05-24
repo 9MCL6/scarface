@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**24.05.2021**
+
+- fixed Vehicle Weapon Rewards
+
 **21.05.2021**
 
 - added Admin Abuse Log
