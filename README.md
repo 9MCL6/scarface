@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**25.05.2021**
+
+- updated Anti-Cheat
+
 **24.05.2021**
 
 - fixed Vehicle Weapon Rewards
