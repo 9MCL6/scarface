@@ -2,6 +2,7 @@
 
 **26.05.2021**
 
+- added new LSMC to safezones
 - added custom engine Sounds
 
 **25.05.2021**
