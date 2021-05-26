@@ -2,6 +2,7 @@
 
 **26.05.2021**
 
+- resdesign esx_identity
 - fixed screenshot-basic
 - added EasyAdmin
 - redesign esx_menu_default
