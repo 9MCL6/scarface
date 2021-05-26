@@ -2,6 +2,7 @@
 
 **26.05.2021**
 
+- added scarface_spielerboard
 - resdesign esx_identity
 - fixed screenshot-basic
 - added EasyAdmin
