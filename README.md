@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- removed EasyAdmin
 - removed screenshot-basic
 - removed webpack
 - removed Craniax_Level
