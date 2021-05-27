@@ -2,6 +2,7 @@
 
 **26.05.2021**
 
+- add new supermarket
 - optimize Database
 - change System to Windows
 - change AC to chocohax
