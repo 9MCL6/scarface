@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- edit mechanic job (armory)
 - removed EasyAdmin
 - removed screenshot-basic
 - removed webpack
