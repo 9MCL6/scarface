@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- removed screenshot-basic
 - removed webpack
 - removed Craniax_Level
 
