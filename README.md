@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- removed webpack
 - removed Craniax_Level
 
 **27.05.2021**
