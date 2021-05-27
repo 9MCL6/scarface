@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- edit Craniax_Admin
 - edit mechanic job (armory)
 - removed EasyAdmin
 - removed screenshot-basic
