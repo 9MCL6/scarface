@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- add FIB Job
 - edit RichPresenceDiscord
 - edit Craniax_Admin
 - edit mechanic job (armory)
