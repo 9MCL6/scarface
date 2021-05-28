@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- edit esx_teleports
 - remove mountzonah lift
 - remove scarface_spielerboard (Performance)
 - edit AC
