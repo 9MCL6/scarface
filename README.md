@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- edit RichPresenceDiscord
 - added FIB Doorlock
 - edit FIB Job
 - edit esx_teleports
