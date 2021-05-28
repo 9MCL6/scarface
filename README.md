@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- edit RichPresenceDiscord
 - edit Craniax_Admin
 - edit mechanic job (armory)
 - removed EasyAdmin
