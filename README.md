@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- remove scarface_spielerboard (Performance)
 - edit AC
 - add FIB Job
 - edit RichPresenceDiscord
