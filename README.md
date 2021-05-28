@@ -2,6 +2,7 @@
 
 **28.05.2021**
 
+- added FIB Doorlock
 - edit FIB Job
 - edit esx_teleports
 - remove mountzonah lift
