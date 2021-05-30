@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**31.05.2021**
+
+- changed mysql-async version
+
 **30.05.2021**
 
 - edit Notifications
