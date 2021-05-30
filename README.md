@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- edit project name & desk
 - edit RichPresenceDiscord
 - changed mysql-async version
 
