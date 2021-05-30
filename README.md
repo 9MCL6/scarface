@@ -2,6 +2,7 @@
 
 **30.05.2021**
 
+- edit essentialmode
 - edit es_extended
 - added Donator Cars
 
