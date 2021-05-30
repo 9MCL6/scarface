@@ -2,6 +2,7 @@
 
 **30.05.2021**
 
+- edit Notifications
 - added new HUD
 - edit esplugin_mysql
 - edit essentialmode
