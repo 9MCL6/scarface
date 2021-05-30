@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- edit RichPresenceDiscord
 - changed mysql-async version
 
 **30.05.2021**
