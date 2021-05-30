@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**30.05.2021**
+
+- added Donator Cars
+
 **28.05.2021**
 
 - edit RichPresenceDiscord
