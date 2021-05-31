@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- added humane labs-raub
 - added laden-raub
 - added bank-raub
 - fixed Vehicle Despawn Bug
