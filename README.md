@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- fixed Bugs LSMC
 - edit Job Gehalt LSMC
 - edit Job Name LSMC
 - added Custom Rechnungen for LSMC
