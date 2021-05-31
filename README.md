@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- added SaltyNUI
 - updated SaltyChat Script (3.3.0)
 - edit project name & desk
 - edit RichPresenceDiscord
