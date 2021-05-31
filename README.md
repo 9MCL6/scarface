@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- fixed Doorlock
 - edit Funk (FIB Access)
 - added SaltyNUI
 - updated SaltyChat Script (3.3.0)
