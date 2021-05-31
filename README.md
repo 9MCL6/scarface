@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- added bank-raub
 - fixed Vehicle Despawn Bug
 - edit VehicleDespawner
 - added Donator Cars
