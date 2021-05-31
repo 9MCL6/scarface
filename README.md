@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- added Custom Weapons (M4, Glock, Katana usw.)
 - added juwelen-raub
 - added yacht-raub
 - added humane labs-raub
