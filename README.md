@@ -2,6 +2,7 @@
 
 **01.06.2021**
 
+- added txAdmin Beta Menu
 - changed FiveM Artifacts Version
 
 **31.05.2021**
