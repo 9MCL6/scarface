@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- added Lifeinvader
 - added Custom Weapons (M4, Glock, Katana usw.)
 - added juwelen-raub
 - added yacht-raub
