@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- added Police Emergency Lights & Sound Control
 - fixed Doorlock
 - edit Funk (FIB Access)
 - added SaltyNUI
