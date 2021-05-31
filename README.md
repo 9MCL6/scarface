@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**01.06.2021**
+
+- changed FiveM Artifacts Version
+
 **31.05.2021**
 
 - added Lifeinvader
