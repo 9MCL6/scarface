@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- edit Job Name LSMC
 - added Custom Rechnungen for LSMC
 - edit AntiCheat
 - added Ambulance Props
