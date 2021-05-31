@@ -2,6 +2,7 @@
 
 **31.05.2021**
 
+- edit mysql-async version (3.2.0)
 - added Police Emergency Lights & Sound Control
 - fixed Doorlock
 - edit Funk (FIB Access)
