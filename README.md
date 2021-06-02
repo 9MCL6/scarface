@@ -2,6 +2,7 @@
 
 **02.06.2021**
 
+- edit LSPD Job Ränge
 - edit AntiCheat
 - edit LSPD Doorlocks
 - edit LSPD Cars
