@@ -2,6 +2,7 @@
 
 **02.06.2021**
 
+- edit LSPD Job & Mapping & Location
 - added MRPD EXT
 - added MRPD
 
