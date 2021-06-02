@@ -2,6 +2,7 @@
 
 **02.06.2021**
 
+- edit FIB JOB
 - edit esx_teleports
 - edit CopNet
 - edit LSPD Job Ränge
