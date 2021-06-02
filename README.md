@@ -2,6 +2,7 @@
 
 **02.06.2021**
 
+- edit LSPD Doorlocks
 - edit LSPD Cars
 - edit LSPD Job & Mapping & Location
 - added MRPD EXT
