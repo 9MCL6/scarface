@@ -2,6 +2,7 @@
 
 **02.06.2021**
 
+- added lux_cardealership
 - added Jail Menu to Police & FIB Actions
 - edit esx_clothes
 - edit FIB JOB
