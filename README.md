@@ -2,6 +2,7 @@
 
 **02.06.2021**
 
+- edit Donator Handlings
 - fixed "löcher" in der Map
 - added donator cars
 - added lux_cardealership
