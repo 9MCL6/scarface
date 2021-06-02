@@ -2,6 +2,7 @@
 
 **02.06.2021**
 
+- edit AntiCheat
 - edit LSPD Doorlocks
 - edit LSPD Cars
 - edit LSPD Job & Mapping & Location
