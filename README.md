@@ -2,6 +2,7 @@
 
 **04.06.2021**
 
+- fixed police & fib Job
 - remove Twitter from dphone (performance)
 
 **02.06.2021**
