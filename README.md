@@ -2,7 +2,7 @@
 
 **04.06.2021**
 
-- fixed Medic Garage
+- fixed LSMC Garage
 - fixed police & fib Job
 - remove Twitter from dphone (performance)
 
