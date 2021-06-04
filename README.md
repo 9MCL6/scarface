@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**04.06.2021**
+
+- remove Twitter from dphone (performance)
+
 **02.06.2021**
 
 - edit Donator Handlings
