@@ -2,6 +2,7 @@
 
 **04.06.2021**
 
+- fixed Bratwa Frakauto
 - edit FIB Job
 - fixed LSMC Garage
 - fixed police & fib Job
