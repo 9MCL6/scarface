@@ -2,6 +2,7 @@
 
 **04.06.2021**
 
+- edit FIB Job
 - fixed LSMC Garage
 - fixed police & fib Job
 - remove Twitter from dphone (performance)
