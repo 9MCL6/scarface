@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**05.06.2021**
+
+- edit Mechaniker Job
+
 **04.06.2021**
 
 - fixed Rechnungen Verwaltung
