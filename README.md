@@ -2,6 +2,7 @@
 
 **05.06.2021**
 
+- delete old Jobs
 - edit Army Job
 - edit Mechaniker Job
 
