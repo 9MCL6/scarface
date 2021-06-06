@@ -2,6 +2,7 @@
 
 **06.06.2021**
 
+- updated artifacts version
 - added & fixed map
 - edit Abschlepphof
 - added big Bennys
