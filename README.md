@@ -2,6 +2,7 @@
 
 **06.06.2021**
 
+- remove maps
 - edit lscustoms
 - edit Mechaniker Job
 
