@@ -2,6 +2,7 @@
 
 **06.06.2021**
 
+- added & fixed map
 - edit Abschlepphof
 - added big Bennys
 - remove maps
