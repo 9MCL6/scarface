@@ -2,6 +2,7 @@
 
 **06.06.2021**
 
+- fixed Donator Cars & Handlings
 - fixed txAdmin Menu Bugs
 - updated artifacts version
 - added & fixed map
