@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**08.06.2021**
+
+- added Cardealer Job
+
 **06.06.2021**
 
 - added Raubüberfälle
