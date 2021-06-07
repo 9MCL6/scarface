@@ -2,6 +2,7 @@
 
 **08.06.2021**
 
+- remove Luxury Shop
 - added Cardealer Doorlocks
 - added Cardealer Tuning Station
 - added Cardealer Job
