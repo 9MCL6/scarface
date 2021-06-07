@@ -2,6 +2,7 @@
 
 **08.06.2021**
 
+- added Cardealer Doorlocks
 - added Cardealer Tuning Station
 - added Cardealer Job
 
