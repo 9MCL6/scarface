@@ -2,6 +2,7 @@
 
 **09.06.2021**
 
+- edited esx_billing
 - added Satudarah MC map and clothing
 
 **08.06.2021**
