@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**09.06.2021**
+
+- added Satudarah MC map and clothing
+
 **08.06.2021**
 
 - remove Luxury Shop
