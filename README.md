@@ -2,6 +2,7 @@
 
 **09.06.2021**
 
+- edited rrghost21 Handling
 - edited lifeinvader
 - edited esx_billing
 - added Satudarah MC map and clothing
