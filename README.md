@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**10.06.2021**
+
+- added scarface_armyjob
+
 **09.06.2021**
 
 - edited rrghost21 Handling
