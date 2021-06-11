@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**11.06.2021**
+
+- changed artifacts version to stable
+
 **10.06.2021**
 
 - added scarface_armyjob
