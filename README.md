@@ -2,6 +2,7 @@
 
 **11.06.2021**
 
+- minimize safezone radius
 - added Logs & Notfiy for Admin Commands
 - added revive Command to Logs & Console
 - fixed server timeouts & crashes
