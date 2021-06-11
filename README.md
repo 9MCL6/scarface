@@ -2,6 +2,7 @@
 
 **11.06.2021**
 
+- added revive Command to Logs & Console
 - fixed server timeouts & crashes
 - updated Logsystem
 - changed artifacts version to stable
