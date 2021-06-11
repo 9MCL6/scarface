@@ -2,6 +2,7 @@
 
 **11.06.2021**
 
+- updated Logsystem
 - changed artifacts version to stable
 
 **10.06.2021**
