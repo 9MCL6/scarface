@@ -2,6 +2,7 @@
 
 **11.06.2021**
 
+- fixed server timeouts & crashes
 - updated Logsystem
 - changed artifacts version to stable
 
