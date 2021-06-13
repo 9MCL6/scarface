@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- added more Shop Icons
 - updated Prices 24/7 Shop
 - updated Prices AmmuNation
 
