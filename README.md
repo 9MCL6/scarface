@@ -2,7 +2,8 @@
 
 **13.06.2021**
 
-- fixed Farhschul Rechnungen
+- remove Tank Stelle Animation
+- fixed Fahrschul Rechnungen
 - remove lux_vehcontrol
 - remove craniax_dheadlights/craniax_menu
 - remove RealisticVehicleFailure
