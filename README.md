@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- updated Prices 24/7 Shop
 - updated Prices AmmuNation
 
 **12.06.2021**
