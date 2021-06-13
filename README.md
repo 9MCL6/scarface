@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- added LSSD Job
 - remove Bank Animation
 - remove Shop Animation
 - remove Tankstelle Animation
