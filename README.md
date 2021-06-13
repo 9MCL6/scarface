@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- edit shops (supermarkt -> 24/7)
 - edit esx_identity
 - added new Bank System
 - added & edited RealisticVehicleFailure
