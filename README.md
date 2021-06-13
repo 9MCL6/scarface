@@ -2,7 +2,8 @@
 
 **13.06.2021**
 
-- remove Tank Stelle Animation
+- remove Shop Animation
+- remove Tankstelle Animation
 - fixed Fahrschul Rechnungen
 - remove lux_vehcontrol
 - remove craniax_dheadlights/craniax_menu
