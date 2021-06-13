@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- updated Prices Tankstelle
 - added new Tankstelle
 - edit shops (supermarkt -> 24/7)
 - edit esx_identity
