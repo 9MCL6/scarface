@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- added new Bank System
 - added & edited RealisticVehicleFailure
 - added more Shop Icons
 - updated Prices 24/7 Shop
