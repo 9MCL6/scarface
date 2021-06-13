@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- added Fahrschule Cars
 - added Lizenzbuch (F7)
 - added Fahrschule & Job
 - added Handy Services for Staats Fraks
