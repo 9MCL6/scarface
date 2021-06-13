@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- remove lux_vehcontrol
 - remove craniax_dheadlights/craniax_menu
 - remove RealisticVehicleFailure
 - edit Fahrschul Job
