@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- added Fahrschule & Job
 - added Handy Services for Staats Fraks
 - edit Jobs
 - updated Prices Tankstelle
