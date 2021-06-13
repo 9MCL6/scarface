@@ -2,6 +2,7 @@
 
 **13.06.2021**
 
+- edit esx_identity
 - added new Bank System
 - added & edited RealisticVehicleFailure
 - added more Shop Icons
