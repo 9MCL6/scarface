@@ -2,6 +2,7 @@
 
 **14.06.2021**
 
+- fixed Craniax_Trunk
 - added Border Patrol Map
 
 **13.06.2021**
