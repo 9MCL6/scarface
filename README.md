@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- redesign scarface_notify
 - redesgin Car HUD
 - redesign Loadingscreen
 - redesign Progress Bar
