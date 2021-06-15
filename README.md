@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- added tempomat
 - edit lssd ranks
 - added license check to police and lssd
 - added lssd and army to robbery notify
