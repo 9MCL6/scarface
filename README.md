@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- added Taxi Job
 - added Unicorn and Bahamas Job
 - added GWD to Army Job
 
