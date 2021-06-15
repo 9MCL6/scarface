@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- added lssd and army to robbery notify
 - added Taxi Job
 - added Unicorn and Bahamas Job
 - added GWD to Army Job
