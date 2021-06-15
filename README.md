@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- redesgin Car HUD
 - redesign Loadingscreen
 - redesign Progress Bar
 - redesign Ausweise
