@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- redesign Ausweise
 - redesign saltynui
 - redesign Tankstelle
 - redesign Shops
