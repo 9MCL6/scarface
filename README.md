@@ -2,6 +2,10 @@
 
 **14.06.2021**
 
+- added GWD to Army Job
+
+**14.06.2021**
+
 - fixed Craniax_Trunk
 - added Border Patrol Map
 
