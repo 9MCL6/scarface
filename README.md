@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- redesign bank
 - added custom keybinds for inventory
 - added tempomat
 - edit lssd ranks
