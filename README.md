@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- edit esx_menu_default Design & Position
 - redesign Money HUD
 - redesign scarface_notifyannounce
 - redesign scarface_notify
