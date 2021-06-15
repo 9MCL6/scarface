@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- added custom keybinds for inventory
 - added tempomat
 - edit lssd ranks
 - added license check to police and lssd
