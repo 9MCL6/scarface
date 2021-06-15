@@ -1,7 +1,8 @@
 # scarface (dev-log)
 
-**14.06.2021**
+**15.06.2021**
 
+- added Unicorn and Bahamas Job
 - added GWD to Army Job
 
 **14.06.2021**
