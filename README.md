@@ -2,6 +2,7 @@
 
 **15.06.2021**
 
+- redesign saltynui
 - redesign Tankstelle
 - redesign Shops
 - redesign bank
