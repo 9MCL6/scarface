@@ -2,6 +2,7 @@
 
 **16.06.2021**
 
+- edit billing log
 - added & secure scarface_state
 - fixed boss menu
 - added Satudarah & crusader Werkstatt
