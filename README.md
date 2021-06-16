@@ -2,6 +2,7 @@
 
 **16.06.2021**
 
+- redesign Garage System
 - remove safezone max limit
 - added tempomat
 - edit billing log
