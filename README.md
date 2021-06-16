@@ -2,6 +2,7 @@
 
 **16.06.2021**
 
+- fixed Boss Menu
 - added boss menu logs
 - added new Handy Wallpapers
 
