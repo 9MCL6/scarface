@@ -2,6 +2,7 @@
 
 **16.06.2021**
 
+- fixed boss menu
 - added Satudarah & crusader Werkstatt
 - edit s63 handling
 - fixed Boss Menu
