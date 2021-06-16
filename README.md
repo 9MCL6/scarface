@@ -2,6 +2,7 @@
 
 **16.06.2021**
 
+- fixed Tempomat
 - redesign dpemotes
 - redesign Garage System
 - remove safezone max limit
