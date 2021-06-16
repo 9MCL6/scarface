@@ -2,6 +2,7 @@
 
 **16.06.2021**
 
+- remove safezone max limit
 - added tempomat
 - edit billing log
 - added & secure scarface_state
