@@ -2,6 +2,7 @@
 
 **17.06.2021**
 
+- fixed unlimeted Ammo to FFA
 - added Weapon Remove for FFA Weapons
 - edit FFA Command (5 Sekunden Delay)
 - edit FFA
