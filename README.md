@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**18.06.2021**
+
+- added Notification für FFA revive
+
 **17.06.2021**
 
 - fixed unlimeted Ammo to FFA
