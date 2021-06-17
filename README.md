@@ -2,6 +2,7 @@
 
 **17.06.2021**
 
+- added forcerespawn to ffa
 - added FFA
 - edit Abschlepphof
 
