@@ -2,6 +2,7 @@
 
 **17.06.2021**
 
+- edit FFA Command (5 Sekunden Delay)
 - edit FFA
 - added remove bullpup and pistol50 outside ffa
 - added TakeHostage
