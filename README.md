@@ -2,6 +2,7 @@
 
 **17.06.2021**
 
+- fixed FFA
 - added unlimited ammo to ffa
 - added forcerespawn to ffa
 - added FFA
