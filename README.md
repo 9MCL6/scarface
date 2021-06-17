@@ -2,6 +2,7 @@
 
 **17.06.2021**
 
+- edit FFA
 - added remove bullpup and pistol50 outside ffa
 - added TakeHostage
 - fixed FFA
