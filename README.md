@@ -2,6 +2,7 @@
 
 **17.06.2021**
 
+- added remove bullpup and pistol50 outside ffa
 - added TakeHostage
 - fixed FFA
 - added unlimited ammo to ffa
