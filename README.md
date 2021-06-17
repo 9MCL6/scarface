@@ -2,6 +2,7 @@
 
 **17.06.2021**
 
+- added TakeHostage
 - fixed FFA
 - added unlimited ammo to ffa
 - added forcerespawn to ffa
