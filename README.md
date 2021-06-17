@@ -2,6 +2,7 @@
 
 **17.06.2021**
 
+- added unlimited ammo to ffa
 - added forcerespawn to ffa
 - added FFA
 - edit Abschlepphof
