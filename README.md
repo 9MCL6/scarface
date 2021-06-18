@@ -2,6 +2,7 @@
 
 **18.06.2021**
 
+- fixed Death Monitor for FFA
 - added in Game UI for FFA
 - edit Broadcast for Staats Fraktionen
 - added Broadcast for Staats Fraktionen
