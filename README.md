@@ -2,6 +2,7 @@
 
 **18.06.2021**
 
+- edit FFA Top 10 Embed
 - edit in Game UI
 - edit FFA Border
 - fixed Death Monitor for FFA
