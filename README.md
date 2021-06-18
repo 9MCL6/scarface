@@ -2,6 +2,7 @@
 
 **18.06.2021**
 
+- edit Broadcast for Staats Fraktionen
 - added Broadcast for Staats Fraktionen
 - reduce FFA Members pro Zones to 10
 - added more FFA Zones
