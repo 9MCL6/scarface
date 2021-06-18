@@ -2,6 +2,7 @@
 
 **18.06.2021**
 
+- reduce LifeInvader Cooldown to 10 Minutes
 - added rtx_neons
 - edit FFA Top 10 Embed
 - edit in Game UI
