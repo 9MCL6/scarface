@@ -2,6 +2,7 @@
 
 **18.06.2021**
 
+- added in Game UI for FFA
 - edit Broadcast for Staats Fraktionen
 - added Broadcast for Staats Fraktionen
 - reduce FFA Members pro Zones to 10
