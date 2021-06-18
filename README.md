@@ -2,6 +2,7 @@
 
 **18.06.2021**
 
+- added more FFA Zones
 - edit FFA
 - added Notification für FFA revive
 
