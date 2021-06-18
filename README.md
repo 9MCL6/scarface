@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**19.06.2021**
+
+- minimize time to fuel
+
 **18.06.2021**
 
 - minimize all blips to 0.8
