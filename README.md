@@ -2,6 +2,7 @@
 
 **18.06.2021**
 
+- redesign NPC Revive
 - added NPC Revive
 - reduce LifeInvader Cooldown to 10 Minutes
 - added rtx_neons
