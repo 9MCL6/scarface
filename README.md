@@ -2,6 +2,7 @@
 
 **19.06.2021**
 
+- added Benzinkanister Item to Shops
 - minimize time to fuel
 
 **18.06.2021**
