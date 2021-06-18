@@ -2,6 +2,7 @@
 
 **18.06.2021**
 
+- minimize all blips to 0.8
 - redesign NPC Revive
 - added NPC Revive
 - reduce LifeInvader Cooldown to 10 Minutes
