@@ -2,6 +2,7 @@
 
 **19.06.2021**
 
+- added f8t
 - edit Benzinkanister Item
 - edit kill logs (remove FFA von Kill Logs)
 - edit scarface_humanelabs
