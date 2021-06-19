@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**20.06.2021**
+
+- fixed Broadcast Command
+
 **19.06.2021**
 
 - remove old Luxury Cardealer
