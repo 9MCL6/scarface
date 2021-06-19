@@ -2,6 +2,7 @@
 
 **19.06.2021**
 
+- fixed Satudarah Society Account
 - added Benzinkanister Item to Server
 - added Benzinkanister Item to Shops
 - minimize time to fuel
