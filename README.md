@@ -2,6 +2,7 @@
 
 **20.06.2021**
 
+- edit FFA
 - added new Objects for Staats Fraktionen
 - edit AntiCheat
 - edit handling "rrghost21"
