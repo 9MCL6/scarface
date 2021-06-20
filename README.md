@@ -2,6 +2,7 @@
 
 **20.06.2021**
 
+- added Billing Logs
 - secure TakeHostage
 - added TakeHostage Logs
 - fixed Broadcast Command
