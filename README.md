@@ -2,6 +2,7 @@
 
 **20.06.2021**
 
+- added individual settings for each ffa zone
 - fixed in Game FFA UI
 - edit FFA
 - added new Objects for Staats Fraktionen
