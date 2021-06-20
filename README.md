@@ -2,6 +2,7 @@
 
 **20.06.2021**
 
+- added Full Green Life for Player Kill
 - added Notify for FFA Kills
 - fixed esx_billing
 - fixed ffa errors
