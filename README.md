@@ -2,6 +2,7 @@
 
 **20.06.2021**
 
+- secure TakeHostage
 - added TakeHostage Logs
 - fixed Broadcast Command
 
