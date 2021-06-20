@@ -2,6 +2,7 @@
 
 **20.06.2021**
 
+- edit AntiCheat
 - edit handling "rrghost21"
 - added Billing Logs
 - secure TakeHostage
