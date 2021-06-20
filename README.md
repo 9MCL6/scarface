@@ -2,7 +2,8 @@
 
 **20.06.2021**
 
-- added Benzikaniscter & Werkzeugkasten for Exekutive
+- added Auto Weapon Remover Staats Fraktion
+- added Benzikanister & Werkzeugkasten for Exekutive
 - edit AntiCheat
 - added Full Green Life for Player Kill
 - added Notify for FFA Kills
