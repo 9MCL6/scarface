@@ -2,6 +2,7 @@
 
 **20.06.2021**
 
+- added new Objects for Staats Fraktionen
 - edit AntiCheat
 - edit handling "rrghost21"
 - added Billing Logs
