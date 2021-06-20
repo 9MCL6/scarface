@@ -2,6 +2,7 @@
 
 **20.06.2021**
 
+- fixed esx_billing
 - fixed ffa errors
 - added individual settings for each ffa zone
 - fixed in Game FFA UI
