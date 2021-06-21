@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**21.06.2021**
+
+- fixed Auto Weapon Remover Staats Fraktion
+
 **20.06.2021**
 
 - added Auto Weapon Remover Staats Fraktion
