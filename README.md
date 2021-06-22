@@ -2,6 +2,7 @@
 
 **21.06.2021**
 
+- edit Bahama Mamas Job
 - added usable Drinks
 - added Bahama Mamas Doorlock
 - added Waffenaufsätze
