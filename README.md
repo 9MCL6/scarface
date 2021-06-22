@@ -2,6 +2,10 @@
 
 **21.06.2021**
 
+- remove Waffenaufsätze
+
+**21.06.2021**
+
 - fixed Auto Weapon Remover Staats Fraktion
 
 **20.06.2021**
