@@ -2,6 +2,7 @@
 
 **21.06.2021**
 
+- added Waffenaufsätze
 - fixed Staats Waffen
 - added Waffenaufsätze
 
