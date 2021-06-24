@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**24.06.2021**
+
+- fixed Funk
+
 **21.06.2021**
 
 - added Animation for Drinking
