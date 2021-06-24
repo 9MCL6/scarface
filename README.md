@@ -2,6 +2,7 @@
 
 **24.06.2021**
 
+- updated d-phone
 - fixed Funk
 
 **21.06.2021**
