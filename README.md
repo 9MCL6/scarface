@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**25.06.2021**
+
+- fixed map
+
 **24.06.2021**
 
 - updated d-phone
