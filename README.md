@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**29.06.2021**
+
+- added EasyAdmin
+
 **25.06.2021**
 
 - fixed map
