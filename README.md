@@ -2,6 +2,7 @@
 
 **29.06.2021**
 
+- remove kick command from Craniax_Admin
 - added EasyAdmin
 
 **25.06.2021**
