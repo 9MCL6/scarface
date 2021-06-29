@@ -2,6 +2,7 @@
 
 **29.06.2021**
 
+- added medusa & casino job
 - added medusa map
 - added webpack
 - added screenshot-basic
