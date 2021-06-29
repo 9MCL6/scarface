@@ -2,6 +2,7 @@
 
 **29.06.2021**
 
+- added webpack
 - added screenshot-basic
 - remove kick command from Craniax_Admin
 - added EasyAdmin
