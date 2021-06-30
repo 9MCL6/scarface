@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- clear FFA Scoreboard
 - edit FFA Join Point
 - edit PaycheckInterval
 - remove useless scripts
