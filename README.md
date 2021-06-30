@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- remove useless scripts
 - remove some maps
 - remove Custom Weapons
 - remove webpack
