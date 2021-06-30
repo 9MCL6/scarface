@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- remove screenshot-basic
 - edit bleedout timer to 20 minutes
 - added Safezones & KM/H Limit
 - remove Tempomat
