@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- remove Custom Weapons
 - remove webpack
 - remove screenshot-basic
 - edit bleedout timer to 20 minutes
