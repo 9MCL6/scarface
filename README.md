@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- added in Game Support System
 - edit Ladenräube requirements
 - edit Ladenräube reward
 - clear FFA Scoreboard
