@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- remove some maps
 - remove Custom Weapons
 - remove webpack
 - remove screenshot-basic
