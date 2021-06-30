@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- added Safezones & KM/H Limit
 - remove Tempomat
 
 **29.06.2021**
