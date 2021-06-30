@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- edit Ladenräube requirements
 - edit Ladenräube reward
 - clear FFA Scoreboard
 - edit FFA Join Point
