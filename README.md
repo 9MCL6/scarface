@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**30.06.2021**
+
+- remove Tempomat
+
 **29.06.2021**
 
 - added /broadcast for casino/medusa/undergroundtuning
