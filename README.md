@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- edit FFA Join Point
 - edit PaycheckInterval
 - remove useless scripts
 - remove some maps
