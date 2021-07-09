@@ -1,9 +1,13 @@
 # scarface (dev-log)
 
-**30.06.2021**
+**09.07.2021**
 
+- edit bar jobs
 - added holster animation
 - added recoil
+
+**30.06.2021**
+
 - added /support 
 - added in Game Support System
 - edit Ladenräube requirements
