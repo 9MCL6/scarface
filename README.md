@@ -2,6 +2,7 @@
 
 **09.07.2021**
 
+- changed casino interior
 - edit bar jobs
 - added holster animation
 - added recoil
