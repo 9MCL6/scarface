@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- added holster animation
 - added recoil
 - added /support 
 - added in Game Support System
