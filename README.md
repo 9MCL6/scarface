@@ -2,6 +2,7 @@
 
 **09.07.2021**
 
+- added bulletproof vest to shop
 - changed casino interior
 - edit bar jobs
 - added holster animation
