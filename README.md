@@ -2,6 +2,7 @@
 
 **30.06.2021**
 
+- added recoil
 - added /support 
 - added in Game Support System
 - edit Ladenräube requirements
