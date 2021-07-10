@@ -2,6 +2,7 @@
 
 **09.07.2021**
 
+- added new tuning system
 - added bulletproof vest to shop
 - changed casino interior
 - edit bar jobs
