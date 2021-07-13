@@ -2,6 +2,7 @@
 
 **13.07.2021**
 
+- added new tattoos
 - added erotik menu
 - added new Pier
 - added pool
