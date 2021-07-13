@@ -2,6 +2,7 @@
 
 **13.07.2021**
 
+- remove Diamond Casino
 - added new Casino
 
 **09.07.2021**
