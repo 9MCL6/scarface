@@ -2,6 +2,7 @@
 
 **13.07.2021**
 
+- added redesign for Friseur Salons
 - added new tattoos
 - added erotik menu
 - added new Pier
