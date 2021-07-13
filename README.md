@@ -2,6 +2,7 @@
 
 **13.07.2021**
 
+- added erotik menu
 - added new Pier
 - added pool
 - added arm wrestling
