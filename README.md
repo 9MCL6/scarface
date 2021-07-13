@@ -2,6 +2,7 @@
 
 **13.07.2021**
 
+- added pool
 - added arm wrestling
 - remove Diamond Casino
 - added new Casino
