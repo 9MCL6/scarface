@@ -2,6 +2,7 @@
 
 **13.07.2021**
 
+- added redesign for Tattoo Studios
 - added new Tattoo System
 - added redesign for Friseur Salons
 - added new tattoos
