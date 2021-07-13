@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**13.07.2021**
+
+- added new Casino
+
 **09.07.2021**
 
 - added new tuning system
