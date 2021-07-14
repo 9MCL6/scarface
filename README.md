@@ -1,7 +1,8 @@
 # scarface (dev-log)
 
-**13.07.2021**
+**14.07.2021**
 
+- moved casino to new location
 - added armdrücken
 
 **13.07.2021**
