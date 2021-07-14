@@ -2,6 +2,7 @@
 
 **14.07.2021**
 
+- removed bahamas
 - moved casino to new location
 - added armdrücken
 
