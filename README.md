@@ -2,6 +2,7 @@
 
 **20.07.2021**
 
+- updated dphone
 - remove scarface_craniaxjob
 - edit recoil
 
