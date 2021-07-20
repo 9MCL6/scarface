@@ -2,6 +2,7 @@
 
 **20.07.2021**
 
+- added Development Server
 - added Vehicle Dev Server
 - updated dphone
 - remove scarface_craniaxjob
