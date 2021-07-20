@@ -2,6 +2,7 @@
 
 **20.07.2021**
 
+- clear useless database tables
 - added Development Server
 - added Vehicle Dev Server
 - updated dphone
