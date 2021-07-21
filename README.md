@@ -2,7 +2,8 @@
 
 **21.07.2021**
 
-- fixed screenshot-basic / added permissions EasyAdmin
+- added permissions EasyAdmin
+- fixed screenshot-basic
 - added Bratwa Westen
 - remove craniax_testmenu
 - remove Waffen Rückstoß
