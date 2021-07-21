@@ -2,6 +2,7 @@
 
 **21.07.2021**
 
+- changed AC to mixas
 - added donator vehicles
 - updated EasyAdmin
 - added permissions EasyAdmin
