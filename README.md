@@ -1,7 +1,8 @@
 # scarface (dev-log)
 
-**21.07.2021**
+**22.07.2021**
 
+- added bowling
 - added new vehicle shop
 
 **21.07.2021**
