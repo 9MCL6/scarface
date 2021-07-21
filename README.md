@@ -2,6 +2,10 @@
 
 **21.07.2021**
 
+- added new vehicle shop
+
+**21.07.2021**
+
 - edit AntiCheat
 - added mixas admin menu
 - changed AC to mixas
