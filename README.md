@@ -2,6 +2,7 @@
 
 **21.07.2021**
 
+- added Bratwa Westen
 - remove craniax_testmenu
 - remove Waffen Rückstoß
 - fixed Staatsfunk
