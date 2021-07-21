@@ -2,6 +2,7 @@
 
 **21.07.2021**
 
+- remove Waffen Rückstoß
 - fixed Staatsfunk
 
 **20.07.2021**
