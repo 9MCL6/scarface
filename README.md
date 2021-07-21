@@ -2,6 +2,7 @@
 
 **21.07.2021**
 
+- edit AntiCheat
 - added mixas admin menu
 - changed AC to mixas
 - added donator vehicles
