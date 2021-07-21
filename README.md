@@ -2,6 +2,7 @@
 
 **21.07.2021**
 
+- updated EasyAdmin
 - added permissions EasyAdmin
 - fixed screenshot-basic
 - added Bratwa Westen
