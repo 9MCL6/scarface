@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**21.07.2021**
+
+- fixed Staatsfunk
+
 **20.07.2021**
 
 - clear useless database tables
