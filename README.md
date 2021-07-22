@@ -2,6 +2,7 @@
 
 **22.07.2021**
 
+- remove bowling map
 - remove bowling script
 - added new map
 - edit AntiCheat
