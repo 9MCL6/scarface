@@ -2,6 +2,7 @@
 
 **22.07.2021**
 
+- fixed Prop Emotes
 - updated AntiCheat
 - fixed weaponshop
 - fixed console revive
