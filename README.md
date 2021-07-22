@@ -2,6 +2,7 @@
 
 **22.07.2021**
 
+- remove Mixas Admin Menu
 - fixed Vehicle Despawn Bug
 - fixed Prop Emotes
 - updated AntiCheat
