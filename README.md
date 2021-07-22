@@ -2,6 +2,7 @@
 
 **22.07.2021**
 
+- edit AntiCheat
 - edit choco screens
 - fixed Staatsfunk
 - edit d-phone
