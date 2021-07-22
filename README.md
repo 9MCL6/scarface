@@ -2,6 +2,7 @@
 
 **22.07.2021**
 
+- updated AntiCheat
 - fixed weaponshop
 - fixed console revive
 - added bowling
