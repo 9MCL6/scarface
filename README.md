@@ -2,6 +2,7 @@
 
 **22.07.2021**
 
+- fixed Staatsfunk
 - edit d-phone
 - fixed phone messages
 - edit AC Whitelist permission for team
