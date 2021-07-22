@@ -2,6 +2,7 @@
 
 **22.07.2021**
 
+- added new map
 - edit AntiCheat
 - edit choco screens
 - fixed Staatsfunk
