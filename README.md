@@ -2,6 +2,7 @@
 
 **22.07.2021**
 
+- fixed weaponshop
 - fixed console revive
 - added bowling
 - added new vehicle shop
