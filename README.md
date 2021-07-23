@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**23.07.2021**
+
+- edit AntiCheat
+
 **22.07.2021**
 
 - remove bowling map
