@@ -1,7 +1,8 @@
 # scarface (dev-log)
 
 **25.07.2021**
-.
+
+- added new boatshop
 - added lasertag
 - fixed tattoos
 - fixed status command
