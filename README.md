@@ -2,6 +2,7 @@
 
 **25.07.2021**
 
+- fixed status command
 - edit Vehicle Handlings
 - added Donator Cars
 
