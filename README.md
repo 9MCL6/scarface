@@ -2,6 +2,7 @@
 
 **25.07.2021**
 
+- removed maps
 - added new boatshop
 - added lasertag
 - fixed tattoos
