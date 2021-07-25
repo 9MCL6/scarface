@@ -2,6 +2,8 @@
 
 **25.07.2021**
 
+- added lasertag
+- fixed tattoos
 - fixed status command
 - edit Vehicle Handlings
 - added Donator Cars
