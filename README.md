@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**26.07.2021**
+
+- remove biketricks
+
 **25.07.2021**
 
 - removed maps
