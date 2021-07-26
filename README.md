@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove club
 - remove patoche_boatdealer
 - remove anime
 - remove checkpoints
