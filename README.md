@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove custom Peds
 - remove tgiann-erp
 - remove xcore_pool
 - remove paradox_pier
