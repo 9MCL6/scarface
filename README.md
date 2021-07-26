@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove garage map
 - remove club
 - remove patoche_boatdealer
 - remove anime
