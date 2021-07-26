@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove checkpoints
 - remove useless scripts
 - remove more maps
 - remove unicorn
