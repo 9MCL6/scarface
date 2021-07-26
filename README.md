@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove more maps
 - remove unicorn
 - remove Religiouspack
 - remove biketricks
