@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove anime
 - remove checkpoints
 - remove useless scripts
 - remove more maps
