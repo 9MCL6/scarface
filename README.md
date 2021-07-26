@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove useless scripts
 - remove more maps
 - remove unicorn
 - remove Religiouspack
