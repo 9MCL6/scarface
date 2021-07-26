@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove scarface_primeirojob
 - remove scarface_policecommissionerjob
 - remove scarface_taxijob
 - remove rtx_neons
