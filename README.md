@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove Religiouspack
 - remove biketricks
 
 **25.07.2021**
