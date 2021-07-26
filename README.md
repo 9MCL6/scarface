@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove patoche_boatdealer
 - remove anime
 - remove checkpoints
 - remove useless scripts
