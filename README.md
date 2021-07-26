@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove La_Fuente_Blanca
 - remove mp_insidetrack
 - remove villaisland
 - remove carpack_floor
