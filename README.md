@@ -2,6 +2,7 @@
 
 **26.07.2021**
 
+- remove xcore_pool
 - remove paradox_pier
 - remove scarface_primeirojob
 - remove scarface_policecommissionerjob
