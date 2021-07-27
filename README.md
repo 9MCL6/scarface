@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**27.07.2021**
+
+- edit Loadingscreen
+
 **26.07.2021**
 
 - remove custom Peds
