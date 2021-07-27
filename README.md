@@ -2,6 +2,7 @@
 
 **27.07.2021**
 
+- updated EasyAdmin
 - edit Loadingscreen
 
 **26.07.2021**
