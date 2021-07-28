@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**28.07.2021**
+
+- remove rcore_pool
+
 **27.07.2021**
 
 - updated EasyAdmin
