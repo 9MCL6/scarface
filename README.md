@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**29.07.2021**
+
+- remove rcore_arm_wrestling
+
 **28.07.2021**
 
 - remove scarface_unicornjob
