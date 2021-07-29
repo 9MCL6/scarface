@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- added clotheshop to md
 - edit ambulance salary
 - added lssd to lspd doorlock
 - remove allways phone display
