@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- added lp770cop to pd
 - added m5rb_vv to pd
 - removed code3ram & code319tahoe
 - edit pd salary
