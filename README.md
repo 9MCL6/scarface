@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- edit PD Doorlock
 - added GABZ PD
 - remove MRPD
 - updated phone
