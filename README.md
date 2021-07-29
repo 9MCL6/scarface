@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- fixed funk
 - fixed teamspeak
 - edit saltychat
 - edit car handlings
