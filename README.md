@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- added RTW4 to ambulance
 - added mdheliwhite to ambulance
 - added clotheshop to md
 - edit ambulance salary
