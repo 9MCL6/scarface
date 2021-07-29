@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- added Twitter (phone)
 - added Business App (Staatsfraktionen)
 - remove rcore_arm_wrestling
 
