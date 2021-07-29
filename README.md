@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- edit pd salary
 - added pdheli to pd
 - edit pd armory
 - edit Kevlar Verarbeiter
