@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- removed code3ram & code319tahoe
 - edit pd salary
 - added pdheli to pd
 - edit pd armory
