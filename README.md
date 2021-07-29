@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- edit ambulance salary
 - added lssd to lspd doorlock
 - remove allways phone display
 - fixed dphone sql errors
