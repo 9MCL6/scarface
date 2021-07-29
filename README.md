@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- edit saltychat
 - edit car handlings
 - added donator cars
 - added clotheshop to pd
