@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- remove allways phone display
 - fixed dphone sql errors
 - edit scarface_policejob
 - edit PD Doorlock
