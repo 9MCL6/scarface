@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- fixed dphone sql errors
 - edit scarface_policejob
 - edit PD Doorlock
 - added GABZ PD
