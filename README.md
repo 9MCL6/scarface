@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- edit dmv clothes 
 - added RTW4 to ambulance
 - added mdheliwhite to ambulance
 - added clotheshop to md
