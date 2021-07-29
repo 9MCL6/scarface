@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- added clotheshop to pd
 - added 2015polstang to pd
 - added lp770cop to pd
 - added m5rb_vv to pd
