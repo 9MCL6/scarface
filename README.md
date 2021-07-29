@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- remove MRPD
 - updated phone
 - added Dispatches
 - fixed send messages (phone)
