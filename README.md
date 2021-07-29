@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- fixed send messages (phone)
 - added Adversitiment (phone)
 - added Twitter (phone)
 - added Business App (Staatsfraktionen)
