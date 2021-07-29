@@ -2,6 +2,7 @@
 
 **29.07.2021**
 
+- added lssd to lspd doorlock
 - remove allways phone display
 - fixed dphone sql errors
 - edit scarface_policejob
