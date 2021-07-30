@@ -2,6 +2,7 @@
 
 **30.07.2021**
 
+- remove penthouse
 - edit vehicle handling
 - added donator cars
 - added donator handling
