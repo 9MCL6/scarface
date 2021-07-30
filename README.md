@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**30.07.2021**
+
+- added donator handling
+
 **29.07.2021**
 
 - fixed funk
