@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- added vehicles & handlings
 - added purge scripts
 - remove Advanced Rifle from Staatsfraks
 - edit AntiCheat
