@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**01.08.2021**
+
+- edit Ammu Nation prices
+
 **31.07.2021**
 
 - fixed blackmarket
