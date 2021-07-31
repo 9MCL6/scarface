@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- remove waffenroute
 - edit farmrouten
 - remove purge scripts
 - added d-phone, discordwhitelist, discordroles
