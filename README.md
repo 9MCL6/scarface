@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- edit farmrouten
 - remove purge scripts
 - added d-phone, discordwhitelist, discordroles
 - removed safezone (außer krankenhaus, airport)
