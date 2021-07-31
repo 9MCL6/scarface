@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- added d-phone, discordwhitelist, discordroles
 - removed safezone (außer krankenhaus, airport)
 - removed Discord Whitelist
 - removed phone (purge)
