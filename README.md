@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- fixed blackmarket
 - edit respawn time
 - edit AntiCheat
 - remove waffenroute
