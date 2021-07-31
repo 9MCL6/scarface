@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- remove Advanced Rifle from Staatsfraks
 - edit AntiCheat
 - added luxury cardealer
 - added blackmarket
