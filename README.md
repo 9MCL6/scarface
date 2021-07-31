@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- remove purge scripts
 - added d-phone, discordwhitelist, discordroles
 - removed safezone (außer krankenhaus, airport)
 - removed Discord Whitelist
