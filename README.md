@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- removed Discord Whitelist
 - removed phone (purge)
 - edit respawn time
 - added vehicles & handlings
