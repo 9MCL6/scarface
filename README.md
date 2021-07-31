@@ -1,8 +1,12 @@
 # scarface (dev-log)
 
+**31.07.2021**
+
+- added unicorn jacke
+- added women clothes
+
 **30.07.2021**
 
-- added women clothes
 - remove fibv
 - remove penthouse
 - edit vehicle handling
