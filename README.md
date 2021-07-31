@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- added luxury cardealer
 - added blackmarket
 - added unicorn jacke
 - added women clothes
