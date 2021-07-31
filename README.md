@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- fixed loadingscreen
 - edit Loadingscreen music
 - edit Ammu Nation prices
 
