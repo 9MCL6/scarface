@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- removed phone (purge)
 - edit respawn time
 - added vehicles & handlings
 - added purge scripts
