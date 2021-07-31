@@ -2,6 +2,7 @@
 
 **30.07.2021**
 
+- added women clothes
 - remove fibv
 - remove penthouse
 - edit vehicle handling
