@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- edit AntiCheat
 - remove waffenroute
 - edit farmrouten
 - remove purge scripts
