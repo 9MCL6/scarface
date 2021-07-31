@@ -2,6 +2,7 @@
 
 **31.07.2021**
 
+- edit AntiCheat
 - added luxury cardealer
 - added blackmarket
 - added unicorn jacke
