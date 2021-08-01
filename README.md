@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- edit pistol price to 75k
 - fixed phone Advertisement app
 - updated dphone
 - fixed loadingscreen
