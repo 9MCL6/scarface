@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- fixed phone Advertisement app
 - updated dphone
 - fixed loadingscreen
 - edit Loadingscreen music
