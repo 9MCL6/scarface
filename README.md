@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- remove bahama
 - remove scarface_galaxyjob
 - edit pistol price to 75k
 - fixed phone Advertisement app
