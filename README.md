@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- fixed weapon "gusenberg"
 - added car "21sclass" 
 - fixed Sandy Abschlepphof
 - remove scarface_waffenteileshop_item
