@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- remove ruletka
 - fixed AC Ban Gusenberg
 - remove bahama
 - remove scarface_galaxyjob
