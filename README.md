@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- added boss menu (unicorn)
 - added unicorn clotheshop
 - added LSSD Flugzeugpunkt
 - added Paleto Abschlepphof
