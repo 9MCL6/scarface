@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- added bar punkt (unicorn)
 - added boss menu (unicorn)
 - added unicorn clotheshop
 - added LSSD Flugzeugpunkt
