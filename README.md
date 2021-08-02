@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**03.08.2021**
+
+- added car "gls600"
+
 **01.08.2021**
 
 - edit Schutzwesten Route
