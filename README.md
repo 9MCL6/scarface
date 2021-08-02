@@ -2,6 +2,7 @@
 
 **03.08.2021**
 
+- fixed unicorn clotheshop
 - added car "gls600"
 
 **01.08.2021**
