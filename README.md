@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- added unicorn clotheshop
 - added LSSD Flugzeugpunkt
 - added Paleto Abschlepphof
 - remove lssd_fixes
