@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- added Flughafen SandyShores
 - fixed Sandy Abschlepphof
 - edit EasyAdmin
 - fixed weapon "gusenberg"
