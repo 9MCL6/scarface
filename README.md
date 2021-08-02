@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- added LSSD Flugzeugpunkt
 - added Paleto Abschlepphof
 - remove lssd_fixes
 - remove lssd_map
