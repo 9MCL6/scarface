@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- edit billing
 - added unicorn job
 - added bar punkt (unicorn)
 - added boss menu (unicorn)
