@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- remove lssd_fixes
 - remove lssd_map
 - added Flughafen SandyShores
 - fixed Sandy Abschlepphof
