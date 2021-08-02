@@ -2,6 +2,7 @@
 
 **01.08.2021**
 
+- fixed Sandy Abschlepphof
 - edit EasyAdmin
 - fixed weapon "gusenberg"
 - added car "21sclass" 
