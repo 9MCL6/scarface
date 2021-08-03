@@ -2,6 +2,7 @@
 
 **03.08.2021**
 
+- fixed unicorn aromory
 - edit Craniax_Trunk
 - fixed unicorn clotheshop
 - added car "gls600"
