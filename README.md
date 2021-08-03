@@ -2,7 +2,8 @@
 
 **03.08.2021**
 
-- fixed unicorn aromory
+- added weazel news cars
+- fixed unicorn armory
 - edit Craniax_Trunk
 - fixed unicorn clotheshop
 - added car "gls600"
