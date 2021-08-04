@@ -1,5 +1,9 @@
 # scarface (dev-log)
 
+**04.08.2021**
+
+- edit permission for addextras/removeextras
+
 **03.08.2021**
 
 - added weazel news cars
