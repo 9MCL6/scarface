@@ -3,6 +3,8 @@
 **06.08.2021**
 
 - updated Artifacts
+- edit policejob
+- edit lssdjob
 
 **05.08.2021**
 
